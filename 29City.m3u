@@ -42,6 +42,7 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ind.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
+https://wahyu1ptv.pages.dev/Indosiar-[HD].m3u8
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -77,7 +78,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|Referer=https://www.rctipl
 #EXTVLCOPT--http-reconnect=true
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
-#EXTINF:-1 tvg-logo="https://GALERITV.github.io/logo/movies/flik.jpg" group-title="HIBURAN",Flik
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="HIBURAN",Flik
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
