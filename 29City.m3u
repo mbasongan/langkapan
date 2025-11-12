@@ -82,6 +82,9 @@ https://tvstreamcast.com/tawaftv.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="",Animal Nature
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="OLAHRAGA",TSP2
