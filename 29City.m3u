@@ -67,18 +67,17 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd|Referer=https://w
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="LOKAL",CNN 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|Referer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT--http-reconnect=true
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flix
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flik
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
@@ -186,8 +185,8 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd|Referer=https://www.indihometv.com/
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/et1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="OLAHRAGA",ESPN
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/960px-Flag_of_Myanmar.svg.png" group-title="ASIA",Myanmar
