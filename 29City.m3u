@@ -201,8 +201,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mediampd/TvNMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Malaysia.png/960px-Flag_of_Malaysia.png" group-title="ASIA",Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
-#https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ceria.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://stream2.smg.my/live/tvsplus.m3u8
 
