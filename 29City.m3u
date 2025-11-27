@@ -70,7 +70,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT--http-reconnect=true
-#https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flik
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -132,7 +132,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
-https://nl00.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-neRxHiZYGAA/WU_aJil_znI/AAAAAAAAAOs/cR0gb1a9NGU3sQuoLe6gSJtIb7vHFXpBgCLcBGAs/s1600/2016-01-14--14_11_51.jpg" group-title="DAKWAH",Rodja
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.0
@@ -162,7 +161,8 @@ https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|Referer=https://www.visionplus.id/
+#https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|Referer=https://www.visionplus.id/
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",MNOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
