@@ -5,7 +5,8 @@ https://e.siar.us/live/deikidstv.m3u8
 https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/512px-Mentari_TV.svg.png",Mentari TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
+https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|Referer=https://www.indihometv.com
 https://popmi.my.id/tes.m3u8?id=8237
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",HoreeKidz
@@ -14,8 +15,6 @@ https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-https://popmi.my.id/tes.m3u8?id=1561
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=1561&type=hls
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="ANAK",kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -32,7 +31,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rcti
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="LOKAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
