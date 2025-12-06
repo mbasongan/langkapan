@@ -5,8 +5,8 @@ https://e.siar.us/live/deikidstv.m3u8
 https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
-#https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
+https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mykidz.jpg?raw=true",MyKidz
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd|Referer=https://www.indihometv.com
@@ -38,8 +38,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/test.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
