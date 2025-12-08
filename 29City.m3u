@@ -182,10 +182,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd|Referer=https:/
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="OLAHRAGA",ESPN
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/960px-Flag_of_Myanmar.svg.png" group-title="ASIA",Myanmar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/960px-Flag_of_Vietnam.svg.png" group-title="ASIA",Vietname
+https://freem3u.xyz/api/live/play.m3u8?vid=2
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
-https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="OLAHRAGA",FOX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
