@@ -62,7 +62,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 #https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
-https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index1.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -206,9 +206,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
-#https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#https://stream2.smg.my/live/tvsplus.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+https://stream2.smg.my/live/tvsplus.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=Ria
 
 
