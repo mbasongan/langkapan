@@ -97,9 +97,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png" group-title="OLAHRAGA",SKYS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sps.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -123,8 +120,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spa.m3u8
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spa.m3u8
 http://live.catvod.com/live.php?id=eltasport_twn
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-neRxHiZYGAA/WU_aJil_znI/AAAAAAAAAOs/cR0gb1a9NGU3sQuoLe6gSJtIb7vHFXpBgCLcBGAs/s1600/2016-01-14--14_11_51.jpg" group-title="DAKWAH",Rodja
@@ -145,7 +141,6 @@ https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",Matrix
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://stream.matrixtv.id/hls/stream.m3u8
 https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",STARM
@@ -182,9 +177,6 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spn.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="OLAHRAGA",FOXS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_South_Korea.png/640px-Flag_of_South_Korea.png" group-title="ASIA" ,Korea
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
