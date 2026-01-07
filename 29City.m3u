@@ -189,13 +189,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Malaysia.png/960px-Flag_of_Malaysia.png" group-title="ASIA",Malaysia
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
-#https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+#https://smart.946985.filegear-sg.me/smart.php?id=Ria
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://stream2.smg.my/live/tvsplus.m3u8
-https://smart.946985.filegear-sg.me/smart.php?id=Ria
+
 
 
 
