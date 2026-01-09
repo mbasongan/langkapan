@@ -99,6 +99,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png" group-title="OLAHRAGA",SKYS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sps.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -129,6 +132,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",dMTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://mic.siar.us/mic/live/mic.m3u8|Referer=https://mic-indo.com/live/
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/640px-Flag_of_Thailand.svg.png",Thailand
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
@@ -173,7 +177,9 @@ https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/hbohit.m3u8
 http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="OLAHRAGA",ESPN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spn.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/960px-Flag_of_Vietnam.svg.png" group-title="ASIA",Vietname
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
