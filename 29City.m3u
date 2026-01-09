@@ -168,10 +168,9 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HIBURAN",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT--http-reconnect=true
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd|Referer=https://www.indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd|Referer=https://www.indihometv.com
 https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/hbohit.m3u8
 http://185.98.211.8:81/hbo2/index.m3u8?token=test
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="OLAHRAGA",ESPN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spn.m3u8
