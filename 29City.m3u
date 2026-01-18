@@ -56,7 +56,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd|Referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT--http-reconnect=true
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sps.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
@@ -184,8 +184,8 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="OLAHRAGA",ESPN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/960px-Flag_of_Vietnam.svg.png" group-title="ASIA",Vietname
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
