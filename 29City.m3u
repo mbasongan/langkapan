@@ -33,17 +33,14 @@ http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-http://tv.casindo.org/hls/55/55.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="LOKAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|Referer=https://www.visionplus.id/
-http://tv.casindo.org/hls/51/51.m3u8
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#http://tv.casindo.org/hls/56/56.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
@@ -51,20 +48,18 @@ http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 #EXTVLCOPT--http-reconnect=true
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="LOKAL",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT--http-reconnect=true
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sps.m3u8
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
-https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd|Referer=https://www.indihometv.com/
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="LOKAL",CNN 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
