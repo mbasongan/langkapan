@@ -28,7 +28,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
-#https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
