@@ -198,7 +198,6 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spf.m3u8
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Malaysia.png/960px-Flag_of_Malaysia.png" group-title="ASIA",Malaysia
-#EXTVLCOPT--http-reconnect=true
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://stream2.smg.my/live/tvsplus.m3u8
 
