@@ -10,7 +10,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=1561&type=hls
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="ANAK",Horee
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -109,7 +108,7 @@ http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sps.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#https://popmi.my.id/tes.m3u8?id=6852
+https://nextgenz.my.id/event/pidio/play.mpd?id=6852&type=dash
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/960px-Flag_of_the_Philippines.svg.png" group-title="ASIA",Philipine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
