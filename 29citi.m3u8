@@ -132,8 +132,7 @@ http://125.227.210.55:8177/VideoInput/play.ts
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
 #https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-https://flv.intechmedia.net/live/ch2.m3u8?chcat=FTA&md5=LoXfPgCjm3LzWr5TnF3m1w&expires=1748006537
-https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",Channel
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -197,7 +196,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spf.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Malaysia.png/960px-Flag_of_Malaysia.png" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 https://stream2.smg.my/live/tvsplus.m3u8
 
 
