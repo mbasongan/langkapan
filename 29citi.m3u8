@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",dKids
-#https://e.siar.us/live/deikidstv.m3u8
 https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
@@ -40,7 +40,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
+#http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -102,7 +102,7 @@ http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
-#https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sps.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -152,7 +152,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",Matrix
 https://stream.matrixtv.id/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",Film
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",Film3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
@@ -172,7 +172,7 @@ https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spb.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HIBURAN",HBO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HIBURAN",Film2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT--http-reconnect=true
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mov.m3u8
@@ -197,7 +197,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spf.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Malaysia.png/960px-Flag_of_Malaysia.png" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://stream2.smg.my/live/tvsplus.m3u8
 
 
