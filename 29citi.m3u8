@@ -148,7 +148,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",Matrix
 https://stream.matrixtv.id/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",Film3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="MUSIK",STARA
@@ -175,7 +175,8 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HIBURAN",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",ZGGO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
