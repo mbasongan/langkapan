@@ -39,7 +39,6 @@ http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sp7.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" group-title="LOKAL",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|Referer=https://www.visionplus.id/
