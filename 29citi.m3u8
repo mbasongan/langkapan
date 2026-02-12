@@ -82,7 +82,7 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd|Referer=https://www.indihometv.com
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ln.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="OLAHRAGA",spoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
