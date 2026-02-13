@@ -90,8 +90,11 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/nat.m3u8
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|Referer=https://cignalplay.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/640px-Flag_of_India.svg.png" group-title="ASIA",India
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+#https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd|Referer=https://www.indihometv.com/
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ind.m3u8
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="OLAHRAGA",Motorvision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spm.m3u8
