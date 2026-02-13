@@ -35,7 +35,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd|Referer=https://w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
-#https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sp7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" group-title="LOKAL",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
