@@ -105,7 +105,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=li
 #https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIAL)/master.mpd
 http://69.30.245.50/live/chcdz.m3u8
 http://202.169.224.202:8800/udp/239.9.1.23:1234
-#EXTINF: -1 tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="OLAHRAGA",Sports
+#EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",motoSports
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
