@@ -102,7 +102,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=	107e13b213a94a6cbb6d02c25653c083:044af5b9e0258e2d39437ee03365fd2d
+#KODIPROP:inputstream.adaptive.license_key=107e13b213a94a6cbb6d02c25653c083:044af5b9e0258e2d39437ee03365fd2d
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIAL)/master.mpd
 http://69.30.245.50/live/chcdz.m3u8
 http://202.169.224.202:8800/udp/239.9.1.23:1234
