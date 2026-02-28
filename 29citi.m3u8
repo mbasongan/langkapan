@@ -34,7 +34,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd|Referer=https://w
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
 https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sp7.m3u8
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png" group-title="LOKAL",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -203,6 +203,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spf.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 https://stream2.smg.my/live/tvsplus.m3u8
 
