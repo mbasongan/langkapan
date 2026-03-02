@@ -27,7 +27,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|Referer=https://www.visionplus.id/
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|Referer=https://www.visionplus.id/
+http://103.66.62.83:8000/play/a00w/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="LOKAL",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -45,6 +46,7 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ivm.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
+http://103.66.62.83:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
