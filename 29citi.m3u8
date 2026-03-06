@@ -186,11 +186,11 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #KODIPROP:inputstream.adaptive.license_key=
 http://103.66.62.83:8000/play/a02r/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",SPORT3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",DGS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#KODIPROP:inputstream.adaptive.license_key=
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8?|Referer=https://pulse1.zalmora.cfd/000/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/vn.svg" group-title="ASIA",Vietname
 #https://freem3u.xyz/api/live/play.m3u8?vid=186
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
