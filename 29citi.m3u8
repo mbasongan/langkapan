@@ -66,7 +66,7 @@ http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens.tv
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="LOKAL",RadioHits
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="MUSIK",RadioHits
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
@@ -101,9 +101,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd|Referer=https://www.indihometv.com/
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="OLAHRAGA",M+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/m06YEnzGgZGOmPOcpxjhoffZP73kNNvcQMNDMCmlThQ8D8w7u7puSilr5QPks4eJ660=w1200-h675-c-rj" group-title="MUSIK",MSTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
+https://malang.staratv.id/hls/stream.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
