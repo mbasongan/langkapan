@@ -101,8 +101,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd|Referer=https://www.indihometv.com/
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/m06YEnzGgZGOmPOcpxjhoffZP73kNNvcQMNDMCmlThQ8D8w7u7puSilr5QPks4eJ660=w1200-h675-c-rj" group-title="MUSIK",MSTARA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="MUSIK",dMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://e.siar.us/live/dmtv.m3u8
 https://malang.staratv.id/hls/stream.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
