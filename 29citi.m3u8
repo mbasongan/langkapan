@@ -135,13 +135,16 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
-http://125.227.210.55:8177/VideoInput/play.ts
+https://nl.utako.moe/js3/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=3
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
 #https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/th.svg",Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",insan TV
