@@ -9,7 +9,6 @@ https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
 https://ratu77.adptv.workers.dev/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
 http://103.66.62.83:8000/play/a00h/index.m3u8
-https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8|Referer=http://www.dens.tv
@@ -64,7 +63,10 @@ http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens.tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xjwBb7V/musiclab.png" group-title="MUSIK",RadioHits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xjwBb7V/musiclab.png" group-title="MUSIK",Musik Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 https://mic.siar.us/mic/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
@@ -117,6 +119,9 @@ http://202.169.224.202:8800/udp/239.9.1.23:1234
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spm.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ph.svg" group-title="ASIA",Philipine 
@@ -197,21 +202,20 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-32777
 https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssport2/playlist.m3u8|Referer=https://www.sporcafe6.xyz/
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8?|Referer=https://pulse1.zalmora.cfd/000/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA" ,Korea
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad97a7abab314cf8963e0c44d2c321eb:37717782418736b919d64cbb078a5bff
+https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpd|Referer=https://www.indihometv.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="OLAHRAGA",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3MGm2necbhhx96iLp19DniVAOV4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7648/fox-1-bead8c.jpg" group-title="OLAHRAGA",FOXS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",ZGGO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spf.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA" ,Korea
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
