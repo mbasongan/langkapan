@@ -16,14 +16,13 @@ https://ratu77.adptv.workers.dev/index.mpd?id=1561&type=dash|user-agent=VidioPla
 https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" group-title="ANAK",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
 https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-#EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mykidz.jpg?raw=true",MKidz
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png",Horee
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https://www.indihometv.com
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|Referer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="LOKAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,7 +194,7 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",SKY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",SKYS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
