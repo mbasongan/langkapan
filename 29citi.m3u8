@@ -89,7 +89,8 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/nat.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|Referer=https://cignalplay.com/
+#https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|Referer=https://cignalplay.com/
+http://119.59.118.168/live/ch19/irannahee/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/in.svg" group-title="ASIA",India
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,7 +181,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|Referer=https://www.visionplus.id/
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-https://sm-monirul.top/Toffee/live.php?id=euro_sports_hd&e=.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spb.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
