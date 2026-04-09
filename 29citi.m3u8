@@ -3,8 +3,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",dKids
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://gooo.blog/opix/genx.m3u8?id=deikids&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#https://gooo.blog/opix/genx.m3u8?id=deikids&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
 https://ratu77.adptv.workers.dev/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
