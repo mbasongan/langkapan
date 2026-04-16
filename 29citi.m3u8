@@ -206,7 +206,6 @@ https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 https://stream2.smg.my/live/tvsplus.m3u8
 
