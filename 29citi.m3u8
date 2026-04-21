@@ -3,7 +3,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",dKids
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
 https://ratu77.adptv.workers.dev/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
 http://103.66.62.83:8000/play/a00h/index.m3u8
@@ -50,7 +50,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer=https://www.visionplus.id/
-http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 #https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 https://ratu77.adptv.workers.dev/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.6
@@ -87,7 +86,6 @@ http://119.59.118.168/live/ch19/irannahee/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd|Referer=https://www.indihometv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="MUSIK",dMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://e.siar.us/live/dmtv.m3u8
@@ -107,7 +105,6 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spm.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ph.svg" group-title="ASIA",Philipine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -183,9 +180,9 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",Sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
