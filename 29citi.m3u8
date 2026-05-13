@@ -84,9 +84,9 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd|Referer=https://cignalplay.com/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/in.svg" group-title="ASIA",India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="MUSIK",dMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://e.siar.us/live/dmtv.m3u8
@@ -181,7 +181,8 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 https://ogietv.biz.id:443/live/aqin/aqin168/1367.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
