@@ -29,8 +29,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",antv
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -206,7 +205,7 @@ https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8?|Referer=https://saruman1.tharen1.cfd/000/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
 
