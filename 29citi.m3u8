@@ -43,7 +43,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="LOKAL",iNews
 #EXTVLCOPT:http-user-agent=android-R+
@@ -155,7 +155,7 @@ https://stream.matrixtv.id/hls/stream.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="MUSIK",STARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://malang.staratv.id/hls/stream.m3u8
+https://stream.staratv.id/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",MNOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -174,7 +174,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HIBURAN",HBO
@@ -200,11 +199,11 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg" group-title="OLAHRAGA",EURO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8?|Referer=https://saruman1.tharen1.cfd/000/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
