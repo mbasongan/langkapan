@@ -67,7 +67,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index1.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=boo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png" group-title="",Animal
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -76,7 +77,7 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=boo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="OLAHRAGA",SpoTV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="OLAHRAGA",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
@@ -193,7 +194,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="OLAHRAGA",ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="OLAHRAGA",Sportss
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
