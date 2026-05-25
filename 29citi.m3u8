@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://vidx.semar.my.id/biasa2.mpd?id=206&type=dash
 https://tvratu.my.id/vid/index.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
