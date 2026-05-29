@@ -78,7 +78,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="MUSIK",dMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://e.siar.us/live/dmtv.m3u8
