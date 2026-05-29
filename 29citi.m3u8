@@ -30,10 +30,10 @@ https://vidx.semar.my.id/biasa2.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31
 #KODIPROP:inputstream.adaptive.license_key=
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",MOJI
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",ficom
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://vidx.semar.my.id/biasa2.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|Referer=https://www.cubmu.com/
+#https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|Referer=https://www.cubmu.com/
 https://stream.staratv.id/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",MNOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -207,7 +207,7 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
 http://179.60.51.134:8888/ESPN3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_DAZN_1.png" group-title="OLAHRAGA",DAZN
