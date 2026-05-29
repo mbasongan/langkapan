@@ -10,12 +10,11 @@ https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release 
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
-#https://tvratu.my.id/vid/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
-https://ratu77.adptv.workers.dev/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
+https://vidx.semar.my.id/biasa2.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
-https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
+https://flv.intechmedia.net/live/ch116.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="LOKAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32,8 +31,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://vidx.semar.my.id/biasa2.mpd?id=206&type=dash
-https://tvratu.my.id/vid/index.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
+https://vidx.semar.my.id/biasa2.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
@@ -54,7 +52,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|Referer=https://www.rcti
 https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://tvratu.my.id/vid/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.6
+https://vidx.semar.my.id/biasa2.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="OLAHRAGA",TNT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
@@ -123,8 +121,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/th.svg",Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
@@ -132,8 +130,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",insan TV
-http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?|user-agent=Mozilla/5.0
-https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
+#http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?|Referer=http://www.dens.tv/
+https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="EURO" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ru.svg",Russia
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -190,8 +188,8 @@ https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",ZGGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-#https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
+#KODIPROP:inputstream.adaptive.license_key=
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_max/live.livx
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -203,8 +201,8 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=boo
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg" group-title="OLAHRAGA",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a
-https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
 http://179.60.51.134:8888/ESPN3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
