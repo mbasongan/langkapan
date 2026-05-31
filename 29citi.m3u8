@@ -30,10 +30,10 @@ https://vidx.semar.my.id/biasa2.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31
 #KODIPROP:inputstream.adaptive.license_key=
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",ficom
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",MOJI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://vidx.semar.my.id/biasa2.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -89,7 +89,7 @@ https://mic.siar.us/mic/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd|Referer=https://www.visionplus.id/
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=celestial-movies-hd
-#EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",motoSport
+#EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",motoSports
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -182,6 +182,7 @@ https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+https://restream-live.realiptv.to/MotherOfPins3/8746645/849
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://kuk1.modprimus1.cfd/000/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA" ,Korea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,6 +191,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",ZGGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659434
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_max/live.livx
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flix
