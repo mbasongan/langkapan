@@ -182,8 +182,7 @@ https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-https://restream-live.realiptv.to/MotherOfPins3/8746645/849
-https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://kuk1.modprimus1.cfd/000/
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA" ,Korea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -209,11 +208,12 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
 http://179.60.51.134:8888/ESPN3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_DAZN_1.png" group-title="OLAHRAGA",DAZN
-http://50.7.120.34:8080/DAZN1/index.m3u8
+#http://50.7.120.34:8080/DAZN1/index.m3u8
+https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://kuk1.modprimus1.cfd/000/
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8?|Referer=https://saruman1.tharen1.cfd/000/
 
 #EXTM3U billed-msg=" @ mbasongan "
