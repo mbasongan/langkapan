@@ -123,7 +123,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
 #https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
