@@ -3,6 +3,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",dKids
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png",kidsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
