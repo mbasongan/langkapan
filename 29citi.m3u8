@@ -61,7 +61,7 @@ https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="OLAHRAGA",SPORTS+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-#https://live-pv-ta.amazon.fastly-edge.com/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://kuk1.modprimus1.cfd/000/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
@@ -84,7 +84,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="MUSIK",dMTV
