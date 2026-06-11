@@ -42,10 +42,9 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/moji.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://digital.tsender57.workers.dev/9930a67745/play/a05c/index.m3u8
+#https://digital.tsender57.workers.dev/9930a67745/play/a05c/index.m3u8
+http://ogietv.biz.id:80/live/aqin/aqin168/1327.m3u8
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-http://103.148.44.38:8000/play/a05c/index.m3u8
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -126,7 +125,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
@@ -157,7 +156,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|Referer=https://www.cubmu.com/
+#https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|Referer=https://www.cubmu.com/
 https://bojonegoro.staratv.id/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="HIBURAN",MNOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -224,6 +223,7 @@ https://stream2.smg.my/live/tvsplus.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc667cda2ff49c4500fdf1ad847d4fc0:13a48dc2c1257fd9a119b448de5225f6
 #https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx?indexMode&amp;dvr=7200000
+https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8?|Referer=https://saruman1.tharen1.cfd/000/
 
 #EXTM3U billed-msg=" @ mbasongan "
