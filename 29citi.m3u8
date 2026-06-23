@@ -37,7 +37,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=moji
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=moji
 http://ogietv.biz.id:80/live/aqin/aqin168/25163.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
@@ -55,7 +55,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|Referer=https://www.rctiplus.com/
-https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="OLAHRAGA",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
@@ -215,7 +214,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/360.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #https://cdn.stmify.com/mytv/stream/TV2/index.mpd|Referer=https://cdn.stmify.com/
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/32.m3u8
+#http://iptv.kilas7.com:80/live/kaukia/asdfrewq/32.m3u8
 http://ogietv.biz.id:80/live/aqin/aqin168/1831.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_DAZN_1.png" group-title="OLAHRAGA",DAZN
