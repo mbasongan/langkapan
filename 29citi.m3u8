@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/360.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://cdn.stmify.com/mytv/stream/TV2/index.mpd|Referer=https://cdn.stmify.com/
+#https://cdn.stmify.com/mytv/stream/TV2/index.mpd|Referer=https://cdn.stmify.com/
 https://cf.perfecttv.net/rwt.m3u8?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ria
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_DAZN_1.png" group-title="OLAHRAGA",DAZN
