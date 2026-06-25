@@ -17,8 +17,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/
 https://tvratu.my.id/vid/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 https://flv.intechmedia.net/live/ch116.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="LOKAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -38,7 +36,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=moji
 http://ogietv.biz.id:80/live/aqin/aqin168/25163.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
@@ -66,7 +63,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_max/live.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-#https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index1.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png" group-title="",Animal
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -208,7 +205,7 @@ http://103.148.44.38:8000/play/a020/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://otte-qw.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+#https://otte-qw.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/360.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
