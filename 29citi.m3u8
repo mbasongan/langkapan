@@ -4,7 +4,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",myKidz
 #https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
-#http://103.148.44.38:8000/play/a09w/index.m3u8
+http://103.148.44.38:8000/play/a09w/index.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png",kidsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -196,10 +196,11 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spt.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="OLAHRAGA",beIN Sports
+#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" group-title="OLAHRAGA",beIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bein.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bein.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2499/index.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg" group-title="HIBURAN",Flix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
