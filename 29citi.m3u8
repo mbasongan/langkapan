@@ -16,8 +16,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/
 https://tvratu.my.id/vid/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
-#https://tvratu.my.id/vid/index.mpd?id=1561&type=dash|user-agent=VidioPlayer/6.31.6
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|Referer=http://www.dens.tv/
+https://tvratu.my.id/vid/index.mpd?id=1561&type=dash|user-agent=VidioPlayer/6.31.6
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8|Referer=https://www.rtv.co.id/
 https://flv.intechmedia.net/live/ch116.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="LOKAL",MNCTV
@@ -27,9 +26,10 @@ https://flv.intechmedia.net/live/ch116.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|Referer=https://www.visionplus.id/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
-#https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#https://tvratu.my.id/vid/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.6
-https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?|Referer=http://www.dens.tv/
+https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://tvratu.my.id/vid/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="LOKAL",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -126,6 +126,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?|Referer=http://www.dens.tv/
 https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
