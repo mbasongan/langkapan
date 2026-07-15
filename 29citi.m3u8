@@ -164,7 +164,8 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="MUSIK",RadioHits
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.12.2
-https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+#https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+http://157.15.187.3:25092/hls/87/87.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/fr.svg",France
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
