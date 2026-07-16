@@ -60,7 +60,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|Referer=https://www.rcti
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="OLAHRAGA",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://futbol9865.ultratv13.workers.dev/deportivo111/89.m3u8
+#https://futbol9865.ultratv13.workers.dev/deportivo111/89.m3u8
 http://179.60.51.134:8888/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -220,7 +220,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/my.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2|Referer=https://www.rtbgo.bn/
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="OLAHRAGA",OSports
