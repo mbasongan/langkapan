@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia2.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="3600"
 
 #EXTM3U
 
