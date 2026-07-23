@@ -35,6 +35,7 @@ https://tvratu.my.id/vid/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://live.eu-north-1b.cf.dmcdn.net/sec2(gXcohvrgI38M3LjOtS3nCK5I3eoLYeiz-7tZQvO6knBU3dgy0OQkbtbmD8zKI0gN5YbT4no8dYWHXlfyZbvasSaFy2QwVmGvOzUwp9k0Epw5myJpQne3zbrjMAW7gk5f)/dm/3/x8qckyq/d/live-480.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w29858655_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ2NDQwODk5Mzcmd293emF0b2tlbmhhc2g9SDNSc0pMUU05eEdIVmRLM1BvUVQ0Q2diUENvYTRrZjIycW8wMHZZOUZuaz0=.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQvyMnY/antv.png" group-title="LOKAL",MOJI
