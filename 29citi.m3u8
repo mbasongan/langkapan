@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia2.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="3600"
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",Horee
@@ -224,11 +222,6 @@ https://stream2.smg.my/live/tvsplus.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=5
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8?|Referer=https://saruman1.tharen1.cfd/000/
 https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8|Referer=https://canale-tv.net/
-
-
-
-
-#EXTM3U billed-msg=" @ mbasongan "
 
 
 
