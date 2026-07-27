@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
+#https://livestream.transtv.co.id/stream/live/ttv.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="LOKAL",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -187,6 +187,7 @@ http://202.169.224.202:8800/udp/239.9.1.1:1234
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spt.m3u8
+#http://177.52.24.163/SPORTV-3-HD/index.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA" ,Korea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
