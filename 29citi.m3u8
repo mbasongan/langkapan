@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LOKAL",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mj.m3u8
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#http://202.150.161.212:5000/live/channel39/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
