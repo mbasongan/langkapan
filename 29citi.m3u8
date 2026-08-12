@@ -31,6 +31,7 @@ https://tvratu.my.id/vid/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+http://gvisiontv.channell.my.id/ch/id/trans7hub.php/.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w29858655_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ2NDQwODk5Mzcmd293emF0b2tlbmhhc2g9SDNSc0pMUU05eEdIVmRLM1BvUVQ0Q2diUENvYTRrZjIycW8wMHZZOUZuaz0=.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
@@ -48,7 +49,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
-#https://livestream.transtv.co.id/stream/live/ttv.m3u8
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="LOKAL",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -56,13 +57,13 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|Referer=http://www.den
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="OLAHRAGA",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#http://179.60.51.134:8888/ESPN3/index.m3u8
+http://179.60.51.134:8888/ESPN3/index.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/espn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="LOKAL",Honocoroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
+#https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png" group-title="",Nature
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
