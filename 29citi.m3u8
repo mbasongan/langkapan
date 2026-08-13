@@ -34,7 +34,6 @@ https://tvratu.my.id/vid/index.mpd?id=783&type=dash|user-agent=VidioPlayer/6.31.
 http://gvisiontv.channell.my.id/ch/id/trans7hub.php/.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w29858655_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ2NDQwODk5Mzcmd293emF0b2tlbmhhc2g9SDNSc0pMUU05eEdIVmRLM1BvUVQ0Q2diUENvYTRrZjIycW8wMHZZOUZuaz0=.m3u8
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LOKAL",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mj.m3u8
@@ -42,7 +41,8 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
