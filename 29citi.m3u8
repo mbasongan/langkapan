@@ -9,8 +9,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/
-https://tvratu.my.id/vid/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 https://beetv.my.id/stream/vd.m3u8?ch=rtv|user-agent=VidioPlayer/6.31.6
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8|Referer=https://www.rtv.co.id/
@@ -41,8 +41,7 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w29858655_b744100_
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
