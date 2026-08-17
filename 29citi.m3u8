@@ -12,7 +12,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
-https://beetv.my.id/stream/vd.m3u8?ch=rtv|user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8|Referer=https://www.rtv.co.id/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="LOKAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -70,7 +71,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #https://amg00090-blueantllc-lovenature-lgus-t7q3q.amagi.tv/playlist/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp720.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="OLAHRAGA",Sportss
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg" group-title="OLAHRAGA",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
