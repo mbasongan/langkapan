@@ -83,8 +83,8 @@ https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="LOKAL",antv
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/nissa/index.mpd?id=783&type=drm
-https://tvratu.my.id/nissa/index.mpd?id=783&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/nissa/index.mpd?id=782&type=drm
+https://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
