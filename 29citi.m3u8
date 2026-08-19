@@ -39,9 +39,6 @@ https://video.detik.com/trans7/smil:trans7/chunklist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.dens.tv/
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mj.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
-#EXTVLCOPT:http-user-agent=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
 https://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="LOKAL",Trans TV
@@ -82,9 +79,6 @@ https://ncdn.telewebion.ir/varzesh/live/240p/index.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd|Referer=https://www.visionplus.id/
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="LOKAL",antv
-#EXTVLCOPT:http-user-agent=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
 https://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
