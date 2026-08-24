@@ -28,6 +28,7 @@ https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?|Referer=http://www.dens.tv/
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="LOKAL",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer=https://www.visionplus.id/
@@ -39,6 +40,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.de
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="LOKAL",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=6
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
