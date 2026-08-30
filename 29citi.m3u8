@@ -174,7 +174,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/film.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",sporttv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tmaxapp.site/pt658svs/sporttv4.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
