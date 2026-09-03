@@ -188,7 +188,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
 #https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
 #https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sony.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258&e=.m3u8|Referer=https://playyonogames.in/
 http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -197,7 +196,6 @@ http://202.70.146.135:8000/play/a06p/index.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/fox.m3u8
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
