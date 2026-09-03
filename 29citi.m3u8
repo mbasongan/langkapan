@@ -33,10 +33,9 @@ https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #KODIPROP:inputstream.adaptive.license_key=
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer=https://www.visionplus.id/
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LOKAL",MOJI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10" group-title="LOKAL",antv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.dens.tv/
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=782&ext=dash&x=1788425156&k=02d06afa9e245310e83000f02c973d708eb188cf4dff021a659a798fe29c5286&sc=782|Referer=https://www.vidio.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="LOKAL",Trans TV
@@ -44,7 +43,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ttv.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ttv.m3u8
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="LOKAL",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -175,8 +174,10 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/film.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/sg.svg" group-title="ASIA",Singapore
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 #EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" group-title="OLAHRAGA",beIN Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bein.m3u8
@@ -201,7 +202,6 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
 #https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
-https://pic.ktiptv.online:443/live/xm1001/4757410/656682.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2|Referer=https://www.rtbgo.bn/
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="OLAHRAGA",Arena
