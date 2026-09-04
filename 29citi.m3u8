@@ -187,7 +187,7 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
 #https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sony.m3u8
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sony.m3u8
 http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
