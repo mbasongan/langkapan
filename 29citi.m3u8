@@ -69,6 +69,7 @@ https://ncdn.telewebion.ir/varzesh/live/240p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd|Referer=https://www.visionplus.id/
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd|Referer=https://maxstream.tv/
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="OLAHRAGA",TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -133,7 +134,8 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="DAKWAH" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",DMI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
-https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd|Referer=https://www.visionplus.id/
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd|Referer=https://www.visionplus.id/
+https://cdnbal1.indihometv.com/atm/DASH/tawaftv/tawaftv-avc1_2500000=7-3277707030000000.mpd|Referer=https://maxstream.tv/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwXjOMKaDXeRbAhfyhzgtMXj6PnmGSeDUew&usqp=CAU" group-title="HIBURAN",STARM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
@@ -186,7 +188,7 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
 #https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sony.m3u8
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/sony.m3u8
 http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
