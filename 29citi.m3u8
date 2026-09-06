@@ -32,7 +32,8 @@ https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=7
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer=https://www.visionplus.id/
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10" group-title="LOKAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|Referer=https://www.vidio.com/
@@ -44,6 +45,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=6
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
 #https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ttv.m3u8
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="LOKAL",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
