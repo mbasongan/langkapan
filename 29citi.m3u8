@@ -30,9 +30,10 @@ https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="LOKAL",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=7
+#KODIPROP:inputstream.adaptive.license_key=
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer=https://www.visionplus.id/
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(K3XgSyMr60FOwk2Hhjqhv8gpa1P6QnyBLywLvDfy9ZA8lrGDuiQQ83aYQDAbUb5YXBzMqO6pJcWptONlHSrloI5nQpUG381FE4pK8Jila06XzpgtrOUpEt8ILyKLqYMi)/dm/3/x8qckyq/d/live-720.m3u8
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10" group-title="LOKAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
@@ -42,9 +43,10 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=6
+#KODIPROP:inputstream.adaptive.license_key=
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ttv.m3u8
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1788757804563&wowzatokenhash=FnkelCaSq8msQvjGDLL7BmkdXdzcpyPPqIhX5v6kr7g%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://20.detik.com/&Origin=https://20.detik.com&Cookie=_gcl_au=1.1.1431826407.1788756902; _ga=GA1.1.1601143817.1788756902; cshx=3bcdb206; __dtma=146380193.1284507989.1788756903.1788756903.1788756903.1; __dtmc=146380193; dtklucx=gen_924330d8-3cab-ecf8-cd48-91c9b5de502e; _ga_Y7WW684XXD=GS2.1.s1788756902$o1$g1$t1788756903$j59$l0$h0; _pk_id.20.33e9=4be60624bc28e207.1788756904.; _pk_ses.20.33e9=1; _ga_CY42M5S751=GS2.1.s1788756902$o1$g1$t1788756903$j59$l0$h0; _ga_ZB365DT921=GS2.1.s1788756903$o1$g1$t1788756903$j60$l0$h0; FCCDCF=%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22b746be0d-ed5e-4135-8d38-4fb691051869%5C%22%2C%5B1788756903%2C335000000%5D%5D%22%5D%5D%5D; __dtmb=146380193.3.10.1788756904; cto_bundle=6LAgpl80REhSJTJCdmxSbG0wMzB4UlJCUkt6ZndUSExzYzVzaGF0NUlmQSUyRkNBZ1A1TlRuN1pKOUtKR1R6ajVJZU50MHRzVmRnaXZqSnJkRldVSHlYZ3o3RFpsYkdlVEphamNRMzhpdmVZeVljWW52YXdNZWRreDVDd1FVdXVoRSUyQjdrWVhiUXRIR2NqTU1rWVVKSGVSMzFJa2xNVnclM0QlM0Q; _fbp=fb.1.1788756905273.252393898189780715; FCNEC=%5B%5B%22AKsRol9vSHZQ30BOpSuiCb5CdAtT8gNDY0YmzwOKO3CbgV6GQZI68WfwR0sHkFPoJeXcSsCKTrZtUveNIA-z2TN56T6snP8YZtzUuAYLQLdP7h-RTzkQOlCNG_51RXFHaVtfxy_SCG4mjlx-TGYRIslhFIHST9lTVA%3D%3D%22%5D%5D; HWWAFSESID=1f98eb59bc751d24a9; HWWAFSESTIME=1788756902750
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ttv.m3u8
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="LOKAL",Kompas TV
