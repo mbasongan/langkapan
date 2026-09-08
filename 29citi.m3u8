@@ -94,7 +94,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd|Referer=https://www.visionplus.id/
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd|Referer=https://www.visionplus.id/
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6852
 https://qaari.org/api/stream/makkah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ph.svg" group-title="ASIA",Philipine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +120,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?|Referer=http://www.dens.tv/
 https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/th.svg",Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
