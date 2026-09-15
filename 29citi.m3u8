@@ -131,7 +131,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://logos.fandom.com/wiki/Insan_TV?file=Insan_TV.jpg",insan TV
+#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Insan_TV.jpg/revision/latest?cb=20180922123637",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="EURO" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ru.svg",Russia
 http://stream.mcquack.net/138/index.m3u8
