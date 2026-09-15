@@ -72,6 +72,7 @@ https://ncdn.telewebion.ir/varzesh/live/240p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="OLAHRAGA",TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
@@ -109,7 +110,7 @@ http://202.70.146.135:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ASIA",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/ce/d6/a4ced68af2baaaedae5e34e1fd3d64cf.jpg" group-title="MUSIK",MIC
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="MUSIK",MIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -121,6 +122,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/th.svg",Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,12 +131,12 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",insan TV
+#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://logos.fandom.com/wiki/Insan_TV?file=Insan_TV.jpg",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="EURO" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ru.svg",Russia
 http://stream.mcquack.net/138/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="DAKWAH" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",DMI
+#EXTINF:-1 group-title="DAKWAH" tvg-id="00" tvg-logo="https://i.imgur.com/bTktkcr.png",DMI
 #https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/98c2047e0b19dc0e9f979d37a4252f900ff2f9cd/0c9fd875599b836.m3u8
 https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwXjOMKaDXeRbAhfyhzgtMXj6PnmGSeDUew&usqp=CAU" group-title="HIBURAN",STARM
