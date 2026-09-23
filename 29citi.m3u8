@@ -6,7 +6,7 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237|Referer=https://m.vidio.com/
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237|Referer=https://www.vidio.com/
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://beetv.my.id/xstreamx/vd.m3u8?ch=rtv|Referer=https://www.vidio.com/
@@ -38,8 +38,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|Referer=https://www.vidio.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
-https://vidsemar.pages.dev/terraluna2/205.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+http://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash|Referer=https://www.vidio.com/
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
