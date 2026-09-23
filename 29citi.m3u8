@@ -54,6 +54,12 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|Referer=http://www.den
 #KODIPROP:inputstream.adaptive.license_key=
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+#https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2|Referer=https://www.rtbgo.bn/
+https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Nature
 https://bamus-lovenature-lg.amagi.tv/480p-cc/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
@@ -130,6 +136,7 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Insan_TV.jpg/revision/latest?cb=20180922123637",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="EURO" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ru.svg",Russia
+http://89.33.29.115:8080/TV_3/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/138/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="DAKWAH" tvg-id="00" tvg-logo="https://i.imgur.com/bTktkcr.png",DMI
@@ -191,12 +198,6 @@ https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8|Referer=https://canale-tv.n
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 https://tvsen7.aynaott.com/foxsports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-#https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2|Referer=https://www.rtbgo.bn/
-https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
