@@ -68,13 +68,15 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+https://n-121-7.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 https://ncdn.telewebion.ir/varzesh/live/240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/in.svg" group-title="ASIA",India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="OLAHRAGA",TNT
@@ -191,7 +193,8 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bein.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HttfMwP/hboxtrm.png" group-title="HIBURAN",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
 https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8|Referer=https://canale-tv.net/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
