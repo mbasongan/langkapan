@@ -52,8 +52,8 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|Referer=http://www.den
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2hhbm5lbCBKb3dv/manifest.mpd?signature=NGQ2MTRjZGZmZmNhZWZhMzg1NzE0NjQ3ZWU0Y2I3ZWM=&time=15250253446
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2hhbm5lbCBKb3dv/manifest.mpd?signature=NGQ2MTRjZGZmZmNhZWZhMzg1NzE0NjQ3ZWU0Y2I3ZWM=&time=15250253446
+#http://202.150.161.212:5000/live/channel38/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/my.svg" group-title="ASIA",Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
