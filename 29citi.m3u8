@@ -8,7 +8,7 @@ https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=19&t=YXV0by00YjRjMzkzMWVhN2RjMjY5fDE3OTA2NjEzNjh8OGM4ZDFhZGYyMzNmYTMwNzdmNWVmY2Y1OWY5NWU1YjBhZDhhY2UxN2Y5MzUxNGEzZWE1YjI5MTExNjNjYTcwMQ
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/
-http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash|Referer=https://www.vidio.com/
+https://vidsemar.pages.dev/terraluna2/8237.mpd|Referer=https://www.vidio.com/
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://beetv.my.id/xstreamx/vd.m3u8?ch=rtv|Referer=https://www.vidio.com/
@@ -97,10 +97,8 @@ https://cdn6.cc.cd/163189/amlh
 https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/index.m3u8|Referer=https://kilat-live.com/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+http://nextgenz.my.id/event/pidio/play.mpd?id=6852&type=dash|Referer=https://www.vidio.com/
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?|Referer=http://www.dens.tv/
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6852
 https://qaari.org/api/stream/makkah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ph.svg" group-title="ASIA",Philipine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
