@@ -83,7 +83,7 @@ https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=35&t=YXV0by00YjRjMzkzMWVhN2RjMjY5fDE3OTA3MDI1ODh8NWVlZjZjNGQwNDE2Y2ZmNjMzNjNkZjVjYzAyNjVjZWQzM2UwYzFhMWQ5ZWQwNmQzN2IyNjU0ZDc0MmUxNTYyOQ
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
@@ -93,13 +93,12 @@ https://cdn6.cc.cd/163189/amlh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/index.m3u8|Referer=https://kilat-live.com/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://nextgenz.my.id/event/pidio/play.mpd?id=6852&type=dash|Referer=https://www.vidio.com/
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCos52azQNBgW63_9uDJoPDA
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?|Referer=http://www.dens.tv/
-https://qaari.org/api/stream/makkah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ph.svg" group-title="ASIA",Philipine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
