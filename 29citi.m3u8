@@ -22,10 +22,10 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8|Referer=https://www.rtv.co.id/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png" group-title="LOKAL",GTV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv|Referer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?|Referer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?|Referer=http://www.dens.tv/
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="LOKAL",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -75,7 +75,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd|Referer=https://maxstream.tv/
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="OLAHRAGA",TNT
@@ -86,7 +86,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/manifest.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnys
 https://cdn6.cc.cd/163189/amlh
