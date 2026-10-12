@@ -125,6 +125,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="DAKWAH" tvg-id="00" tvg-logo="https://i.imgur.com/bTktkcr.png",Ashiil TV
 #https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/98c2047e0b19dc0e9f979d37a4252f900ff2f9cd/0c9fd875599b836.m3u8
 https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://streaming.yufid.com/hls/artvisi.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwXjOMKaDXeRbAhfyhzgtMXj6PnmGSeDUew&usqp=CAU" group-title="HIBURAN",StarMovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
