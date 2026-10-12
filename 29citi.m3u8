@@ -124,11 +124,10 @@ http://stream.mcquack.net/138/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="DAKWAH" tvg-id="00" tvg-logo="https://i.imgur.com/bTktkcr.png",Ashiil TV
 #https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/98c2047e0b19dc0e9f979d37a4252f900ff2f9cd/0c9fd875599b836.m3u8
-https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://streaming.yufid.com/hls/artvisi.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwXjOMKaDXeRbAhfyhzgtMXj6PnmGSeDUew&usqp=CAU" group-title="HIBURAN",StarMovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="OLAHRAGA",ESPN
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/espn.m3u8
@@ -173,8 +172,7 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HttfMwP/hboxtrm.png" group-title="HIBURAN",FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=93
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
