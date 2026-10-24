@@ -77,7 +77,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
-https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnys
 #EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",MotorSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -108,8 +108,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://mic.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
+#https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro2.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -160,7 +160,6 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6626/index.m3u8
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",SportTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
