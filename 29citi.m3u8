@@ -76,8 +76,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnys
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
 #EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",MotorSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -107,7 +106,7 @@ https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://mic.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
 #https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro2.m3u8
+#https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro2.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/mqtv.png" group-title="DAKWAH",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -129,7 +128,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/98c2047e0b19dc0e9f979d37a4252f900ff2f9cd/0c9fd875599b836.m3u8
 #https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://streaming.yufid.com/hls/artvisi.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwXjOMKaDXeRbAhfyhzgtMXj6PnmGSeDUew&usqp=CAU" group-title="HIBURAN",StarMovies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwXjOMKaDXeRbAhfyhzgtMXj6PnmGSeDUew&usqp=CAU" group-title="HIBURAN",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/mv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="OLAHRAGA",ESPN
