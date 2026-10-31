@@ -145,7 +145,7 @@ http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/fr.svg",France
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -181,8 +181,8 @@ http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 https://tvsen7.aynaott.com/foxsports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
