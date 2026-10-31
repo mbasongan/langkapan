@@ -159,7 +159,7 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",SportTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -176,7 +176,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bein.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HttfMwP/hboxtrm.png" group-title="HIBURAN",FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://125.227.210.55:1003/VideoInput/play.ts
+#http://125.227.210.55:1003/VideoInput/play.ts
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="OLAHRAGA",FOXS
