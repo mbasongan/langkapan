@@ -34,10 +34,11 @@ https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release 
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/t7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10" group-title="LOKAL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#http://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash|Referer=https://www.vidio.com/
-http://202.150.165.66:8088/play/807-ANTV/index.m3u8
-https://beetv.my.id/jabingan/vd.m3u8?ch=antv|Referer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/QU5UVg/manifest.mpd
+http://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash|Referer=https://www.vidio.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash|Referer=https://www.vidio.com/
@@ -84,7 +85,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/cn.m3u8
 https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/index.m3u8|Referer=https://kilat-live.com/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCos52azQNBgW63_9uDJoPDA
+$https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCos52azQNBgW63_9uDJoPDA
 https://vidio123.mikrofast.web.id/vidio/6852/index.mpd|Referer=https://www.vidio.com/
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?|Referer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/ph.svg" group-title="ASIA",Philipine 
