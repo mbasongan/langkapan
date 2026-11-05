@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png",VTV
-#https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f1-v1-a1.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -41,7 +40,7 @@ https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q
 http://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash|Referer=https://www.vidio.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash|Referer=https://www.vidio.com/
+#http://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash|Referer=https://www.vidio.com/
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="LOKAL",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
