@@ -81,9 +81,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 http://69.30.245.50/live/chcdz.m3u8
 #EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",MotorSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/index.m3u8|Referer=https://kilat-live.com/
+#https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/index.m3u8|Referer=https://kilat-live.com/
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motogp.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCos52azQNBgW63_9uDJoPDA
@@ -104,7 +103,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+#https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://mic.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="OLAHRAGA",SportAsia
 #http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
