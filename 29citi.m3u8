@@ -28,7 +28,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rcti
 https://beetv.my.id/jabingan/rcti.m3u8?id=3|Referer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
+http://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?|Referer=http://www.dens.tv/
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="LOKAL",Trans7
@@ -165,8 +165,8 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png" group-title="HIBURAN",WTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/wtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",SportTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -174,8 +174,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/spt.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/mm.svg" group-title="ASIA",Myanmar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
-#https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
 #EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" group-title="OLAHRAGA",beIN Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -183,8 +182,7 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HttfMwP/hboxtrm.png" group-title="HIBURAN",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
-#https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 http://125.227.210.55:1003/VideoInput/play.ts
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
