@@ -18,14 +18,14 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8|Referer=https://www.rtv.co.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2&type=drm
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|Referer=https://www.visionplus.id/
-https://beetv.my.id/jabingan/rcti.m3u8?id=2|Referer=https://www.rctiplus.com/
+#https://beetv.my.id/jabingan/rcti.m3u8?id=2|Referer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png" group-title="LOKAL",GTV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3&type=drm
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|Referer=https://www.visionplus.id/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|Referer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|Referer=https://www.rctiplus.com/
 https://beetv.my.id/jabingan/rcti.m3u8?id=3|Referer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -197,7 +197,8 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ars.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8|Referer=https://www.visionplus.id/
 https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1314e17e-5574-48bc-aa49-d000da4d99bd/3.m3u8
 
 
