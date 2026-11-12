@@ -17,7 +17,7 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8|Referer=https://www.rtv.co.id/
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8|Referer=https://www.visionplus.id/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=mnctv&type=m3u8|Referer=https://www.visionplus.id/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png" group-title="LOKAL",GTV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -165,7 +165,7 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
-https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+#https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/wtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="OLAHRAGA",SportTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -194,8 +194,7 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/ars.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46&type=drm
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=
 https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8|Referer=https://www.visionplus.id/
 https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1314e17e-5574-48bc-aa49-d000da4d99bd/3.m3u8
 
