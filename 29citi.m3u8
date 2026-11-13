@@ -78,7 +78,7 @@ https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",Chinese
 #http://69.30.245.50/live/chcdz.m3u8
-http://202.150.165.66:8088/play/108-Celestial/index.m3u8
+https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8|Referer=https://www.visionplus.id/
 #EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",MotorSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/index.m3u8|Referer=https://kilat-live.com/
@@ -179,10 +179,7 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_480.m3u8
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bns.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HttfMwP/hboxtrm.png" group-title="HIBURAN",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
-http://125.227.210.55:1003/VideoInput/play.ts
+#http://125.227.210.55:1003/VideoInput/play.ts
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
