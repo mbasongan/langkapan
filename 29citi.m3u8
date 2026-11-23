@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png",VTV
-#https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://proxy-v.rctiplus.id/live/web/kidstv/index.m3u8|Referer=https://www.visionplus.id/
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s",Mentari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -68,7 +68,7 @@ https://n-121-7.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.liv
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/in.svg" group-title="ASIA",India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8|Referer=https://www.visionplus.id/
+#https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8|Referer=https://www.visionplus.id/
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="OLAHRAGA",TNT
@@ -76,7 +76,7 @@ https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cn.svg",China
-#http://69.30.245.50/live/chcdz.m3u8
+http://69.30.245.50/live/chcdz.m3u8
 https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8|Referer=https://www.visionplus.id/
 #EXTINF: -1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="OLAHRAGA",MotorSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -179,8 +179,10 @@ https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/bns.m3u8
 #https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/kr.svg" group-title="ASIA",Korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZOIE1vdmllcw/manifest.mpd
 https://1705923134064eec9658818507b84a6f.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/1314e17e-5574-48bc-aa49-d000da4d99bd/3.m3u8
 
 
